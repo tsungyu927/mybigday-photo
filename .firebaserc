@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "mybigday-photo-printer-dev": {
+      "hosting": {
+        "mybigday-photo-printer-dev": [
+          "mybigday-photo-printer-dev"
+        ]
+      }
+    }
+  }
+}

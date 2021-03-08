@@ -1,0 +1,212 @@
+{
+  "CARD0001": {
+    "draw_step": [
+      {
+        "height": 376.608,
+        "parameter": "PHOTO0",
+        "type": "image",
+        "width": 377.7104,
+        "x": 23.6459,
+        "y": 531.913
+      },
+      {
+        "height": 376.608,
+        "parameter": "PHOTO1",
+        "type": "image",
+        "width": 377.7104,
+        "x": 411.0329,
+        "y": 531.913
+      },
+      {
+        "height": 376.608,
+        "parameter": "PHOTO2",
+        "type": "image",
+        "width": 377.7104,
+        "x": 798.4199,
+        "y": 531.913
+      },
+      {
+        "height": 376.608,
+        "parameter": "PHOTO3",
+        "type": "image",
+        "width": 377.7104,
+        "x": 23.6459,
+        "y": 919.6761
+      },
+      {
+        "height": 376.608,
+        "parameter": "PHOTO4",
+        "type": "image",
+        "width": 377.7104,
+        "x": 798.4199,
+        "y": 919.6761
+      },
+      {
+        "height": 376.608,
+        "parameter": "PHOTO5",
+        "type": "image",
+        "width": 377.7104,
+        "x": 23.6459,
+        "y": 1307.4392
+      },
+      {
+        "height": 376.608,
+        "parameter": "PHOTO6",
+        "type": "image",
+        "width": 377.7104,
+        "x": 411.0329,
+        "y": 1307.4392
+      },
+      {
+        "height": 376.608,
+        "parameter": "PHOTO7",
+        "type": "image",
+        "width": 377.7104,
+        "x": 798.4199,
+        "y": 1307.4392
+      },
+      {
+        "height": 1800,
+        "type": "image",
+        "url": "https://firebasestorage.googleapis.com/v0/b/mybigday-photo-printer-dev.appspot.com/o/北歐光境相片框.png?alt=media&token=bcd9d23c-4829-48a3-80e6-0fb8f4603add",
+        "width": 1200,
+        "x": 0,
+        "y": 0
+      }
+    ],
+    "frame_id": "nine-grids-photo",
+    "media": "w288h432-div2",
+    "preview": {
+      "image_url": "https://firebasestorage.googleapis.com/v0/b/mybigday-photo-printer.appspot.com/o/EnterSpace%2FNewPreview%2F06.png?alt=media&token=5f9b9530-0dcd-4cb5-abcb-686017399bf1",
+      "photo_offset": {
+        "height": 332,
+        "width": 265,
+        "x": 13,
+        "y": 12
+      },
+      "size": {
+        "height": 432,
+        "width": 290
+      }
+    },
+    "size": {
+      "height": 1800,
+      "width": 1200
+    },
+    "type": "custom"
+  }
+}
+// {
+//   "CARD2602": {
+//     "draw_step": [
+//       {
+//         "height": 353,
+//         "parameter": "PHOTO0",
+//         "type": "image",
+//         "width": 520,
+//         "x": 56,
+//         "y": 82
+//       },
+//       {
+//         "height": 353,
+//         "parameter": "PHOTO1",
+//         "type": "image",
+//         "width": 520,
+//         "x": 56,
+//         "y": 458
+//       },
+//       {
+//         "height": 353,
+//         "parameter": "PHOTO2",
+//         "type": "image",
+//         "width": 520,
+//         "x": 56,
+//         "y": 834
+//       },
+//       {
+//         "height": 353,
+//         "parameter": "PHOTO3",
+//         "type": "image",
+//         "width": 520,
+//         "x": 56,
+//         "y": 1210
+//       },
+//       {
+//         "height": 353,
+//         "parameter": "PHOTO0",
+//         "type": "image",
+//         "width": 520,
+//         "x": 653,
+//         "y": 82
+//       },
+//       {
+//         "height": 353,
+//         "parameter": "PHOTO1",
+//         "type": "image",
+//         "width": 520,
+//         "x": 653,
+//         "y": 458
+//       },
+//       {
+//         "height": 353,
+//         "parameter": "PHOTO2",
+//         "type": "image",
+//         "width": 520,
+//         "x": 653,
+//         "y": 834
+//       },
+//       {
+//         "height": 353,
+//         "parameter": "PHOTO3",
+//         "type": "image",
+//         "width": 520,
+//         "x": 653,
+//         "y": 1210
+//       },
+//       {
+//         "height": 1860,
+//         "type": "image",
+//         "url": "https://firebasestorage.googleapis.com/v0/b/photo-printer-d994c.appspot.com/o/background%2F4.png?alt=media&token=99e1aa1a-d3b2-4049-9e06-ed02fb1a1aa7",
+//         "width": 1240,
+//         "x": 0,
+//         "y": 0
+//       },
+//       {
+//         "color": "#2b666e",
+//         "parameter": "INPUT_TEXT0",
+//         "size": 50,
+//         "type": "text",
+//         "x": 100,
+//         "y": 1580
+//       },
+//       {
+//         "color": "#2b666e",
+//         "parameter": "INPUT_TEXT0",
+//         "size": 50,
+//         "type": "text",
+//         "x": 700,
+//         "y": 1580
+//       }
+//     ],
+//     "frame_id": "04a7138b-71e7-4308-8686-eab7d43e3c06",
+//     "media": "w288h432-div2",
+//     "preview": {
+//       "image_url": "https://firebasestorage.googleapis.com/v0/b/mybigday-photo-printer.appspot.com/o/EnterSpace%2FNewPreview%2F06.png?alt=media&token=5f9b9530-0dcd-4cb5-abcb-686017399bf1",
+//       "photo_offset": {
+//         "height": 332,
+//         "width": 265,
+//         "x": 13,
+//         "y": 12
+//       },
+//       "size": {
+//         "height": 432,
+//         "width": 290
+//       }
+//     },
+//     "size": {
+//       "height": 1860,
+//       "width": 1240
+//     },
+//     "type": "custom"
+//   }
+// }

@@ -1,0 +1,110 @@
+/* ----------------------------- */
+/* UploadPhoto */
+.toUploadPhoto {
+  width: 100%;
+  height: 100%;
+  border: 1px dashed black;
+  background-color: transparent;
+  margin-bottom: 5%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.custom-chose-act {
+  width: 100%;
+  height: 100%;
+  background-color: grey;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.5;
+  font-size: 10px;
+}
+.choose-top {
+  width: 100%;
+  height: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+.choose-top img {
+  width: 30%;
+}
+.choose-bottom {
+  width: 100%;
+  height: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  font-size: 10px;
+  color: white;
+}
+.select-action {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  margin: 0 auto;
+  z-index: 3;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.select-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  opacity: 0.7;
+  z-index: 4;
+}
+.select-action-inner {
+  position: absolute;
+  top: 35%;
+  z-index: 5;
+  height: 20vh;
+  background-color: #b12d30;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.choseMain {
+  width: 100%;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  color: white;
+}
+.choseMine {
+  width: 100%;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.custom-file-upload {
+  border-top: 1px solid white;
+  height: 100%;
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  color: white;
+}
+.toUploadPhoto input[type="file"] {
+  display: none;
+}

@@ -1,0 +1,28 @@
+.wait-outer {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.wait-inner {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.wait-pass {
+  color: #b12d30;
+  font-size: 6vw;
+  font-weight: bold;
+  margin-bottom: 2vh;
+}
+
+.wait-tip {
+  color: grey;
+  font-size: 4vw;
+  font-weight: bold;
+}

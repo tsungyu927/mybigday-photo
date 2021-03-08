@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "public": "build",
+    "target": "mybigday-photo-printer-dev",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

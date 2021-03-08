@@ -1,0 +1,49 @@
+.ad-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.ad-top {
+  width: 100%;
+  height: 85%;
+  background: url("../img/cover.jpg");
+  background-size: cover;
+  background-position: center center;
+}
+.ad-top img {
+  width: 100%;
+  height: 100%;
+}
+.ad-bottom {
+  width: 100%;
+  height: 15%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.ad-button {
+  width: 35%;
+  height: 9vh;
+  background-color: #b12d30;
+  border-radius: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+}
+.ad-button div {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+}
